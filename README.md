@@ -1,4 +1,5 @@
 # Swakrit Enterprises
+This is name of Shop.
 This is my first Git Repo.
 <br>
-<h1>Written By-Krityanjay Prajapati</h1>
+<h1>Owned By-Krityanjay Prajapati</h1>
